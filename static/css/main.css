@@ -1,0 +1,31 @@
+body {
+    background-color: blanchedalmond;
+    margin: 20px;
+    font-family: cursive;
+}
+input {
+    border-radius: 5px;
+}
+
+p {
+    font-family: cursive;
+    font-size: large;
+    display: block;
+    text-indent: 500px;
+    text-align: left;
+    position: relative;
+    top: -700px;
+}
+
+#result:hover {
+    background-color: darkgoldenrod;
+    cursor: pointer
+}
+.vertical {
+    border-left: 4px solid chocolate;
+    height: 730px;
+    position: absolute;
+    left: 30%;
+    margin-left: -3px;
+    top: 15px;
+}
